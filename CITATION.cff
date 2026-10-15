@@ -12,7 +12,6 @@ license: MIT
 doi: "10.5281/zenodo.23205253"
 repository-code: "https://github.com/massimosbarbaro/folklore-gps-tour-guide-android"
 keywords:
-  - "MIT App Inventor"
   - "Android"
   - "GPS"
   - "maps"
